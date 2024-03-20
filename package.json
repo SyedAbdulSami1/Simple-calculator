@@ -1,5 +1,5 @@
 {
-  "name": "simple-calculator",
+  "name": "s24ami-simple-calculator",
   "version": "1.0.0",
   "description": "A simple caculator with using Type Script, Node.js and Inquirer",
   "main": "index.js",
